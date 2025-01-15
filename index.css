@@ -1,0 +1,121 @@
+/* Navbar section */
+#main-nav {
+	background: #092d47;
+}
+
+nav a {
+	font-family: Montserrat;
+	font-size: 1.125rem;
+	font-weight: 500;
+	color: #cfe2f3 !important;
+}
+
+
+/* Landing section */
+#landing {
+	background: #cfe2f3;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#name {
+	font-family: Montserrat;
+	font-size: 4rem;
+	font-weight: 600;
+	color: #092d47;
+}
+
+#title {
+	font-family: Montserrat;
+	font-size: 1.5rem;
+	font-weight: 400;
+	color: #092d47;
+}
+
+#ctabutton {
+	padding: 0.75rem 2rem;
+	background: #092d47;
+	border-radius: 100px;
+	font-family: Montserrat;
+	font-size: 1.25rem;
+	font-weight: 600;
+	color: #cfe2f3;
+}
+
+
+/* About Me section */
+#about {
+	background: #FFFFFF;
+}
+
+#text-title {
+	font-family: Montserrat;
+	font-size: 2.5rem;
+	font-weight: 600;
+	color: #092d47;
+}
+
+#about p {
+	font-family: Montserrat;
+	font-size: 1.5rem;
+	font-weight: 400;
+	color: #092d47;
+
+}
+
+
+
+/* Projects Section */
+#projects {
+	background: #092d47;
+	color: #cfe2f3;
+}
+
+.card {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	color: #092d47;
+	background: #cfe2f3;
+}
+
+.card-img-top {
+	object-fit: cover;
+	height: 31.25rem; 
+}
+
+.card-body {
+	font-family: Montserrat;
+	flex-grow: 1;
+}
+
+/* Tools section */
+.tool-logo {
+	width: 80px;
+	height: 80px;
+	object-fit: contain;
+}
+.section-title {
+	font-family: Montserrat, sans-serif;
+	font-size: 2rem;
+	font-weight: 600;
+	color: #092d47;
+}
+.tools-category {
+	font-family: Montserrat, sans-serif;
+	font-size: 1.5rem;
+	font-weight: 500;
+	color: #092d47;
+	margin-top: 1rem;
+}
+
+
+/* Contacts section */
+#contact {
+	background: #cfe2f3;
+}
+
+#contactform {
+	background: #092d47;
+	color: #cfe2f3;
+}
